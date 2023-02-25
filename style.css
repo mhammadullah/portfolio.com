@@ -147,7 +147,7 @@ main{
 #home{
     height:100vh;
     width: 100%;
-    background-image: url(/image/background1.jpg);
+    background-image: url(background1.jpg);
     background-size: cover;
     background-attachment: fixed;
     display:flex ;
